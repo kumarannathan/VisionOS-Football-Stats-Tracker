@@ -2,6 +2,7 @@
 
 A SwiftUI based VisionOS Football/Soccer Stats App.
 Uses [Football-Data.org API](https://www.football-data.org)
+Built Using XCode 15.3 Beta 2
 
 <p align="center">
 <img width="256" alt="Screencapture from App" src="https://github.com/kumarannathan/VisionOS-Football-Stats-Tracker/assets/98358804/961291b3-0731-49c5-a118-e08df2d98ca8">
