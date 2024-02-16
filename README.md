@@ -4,8 +4,10 @@ A SwiftUI based VisionOS Football/Soccer Stats App.
 Uses [Football-Data.org API](https://www.football-data.org)
 
 <p align="center">
-<img width="256" alt="Screenshot 2024-02-16 at 6 05 19 PM" src="https://github.com/kumarannathan/VisionOS-Football-Stats-Tracker/assets/98358804/961291b3-0731-49c5-a118-e08df2d98ca8">
+<img width="256" alt="Screencapture from App" src="https://github.com/kumarannathan/VisionOS-Football-Stats-Tracker/assets/98358804/961291b3-0731-49c5-a118-e08df2d98ca8">
+  <img width="256" alt="Video Preview of App" src="https://github.com/kumarannathan/VisionOS-Football-Stats-Tracker/assets/98358804/5bab7805-a6bf-4fb0-990b-38f8b9c7a19d">
 </p>
+
 
 
 
